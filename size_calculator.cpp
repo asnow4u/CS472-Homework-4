@@ -1,3 +1,8 @@
+/*****************************
+ *Name: Andrew Snow
+ *Class: CS472
+ *Assignment 4
+ * **************************/
 
 #include <stdio.h>
 #include <cstdlib>
